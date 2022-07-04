@@ -1,0 +1,11 @@
+Site visando ser um centro de informações internas para uma empresa.
+
+O site deve conter no mínimo tês abas de informações.
+
+Nesse projeto será montado usando trés temas: recados gerais, cursos abertos, organização da empresa.
+
+Uma quarta aba irá conter o modelos de como as informações podem ser postadas no site. (Página para administradores).
+ 
+O site será hospedado pelo GITHUB Pages.
+
+O site deve funcionar bem em dispositivos moveis
